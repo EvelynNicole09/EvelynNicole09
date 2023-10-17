@@ -3,7 +3,7 @@
 
 meu nome é Evelyn Nicole 
 
-- Estou estudando na [Alura] (https://www.alura.com.br)
+- Estou estudando na [Alura](https://www.alura.com.br)
 - Estou me desenvolvendo na linguagem JavaScript
 - Utilizo esse espaço para minha organizaçao e compartilhamento dos meus projetos desenvolvidos
 
